@@ -1,0 +1,1 @@
+Demonstration of DXGI's internal `IDXGISwapChainTest` interface and `GetColorSpace1()` functionality.
